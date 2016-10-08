@@ -1,0 +1,19 @@
+Americas
+* Brasil	IBOV		OK
+* EUA 		S&P 500		OK
+* Argentina	MERVAL		OK
+* Chile		IPSA		OK
+* México	IPC		OK
+* Canadá	TSX Composite	OK
+
+Asia
+* Japão		NIKKEI 225	OK
+* China		SSE Composite	OK
+* Índia		S&P BSE	Sensex	OK
+* Hong Kong	Hang Seng	OK
+
+Oceania
+* Australia	S&P/ASX 200	OK
+
+Europa
+* Euro		Euronext 100	OK
